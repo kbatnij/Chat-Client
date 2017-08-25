@@ -22,7 +22,7 @@ Simply copy it to the root of your web directory.
 * [Smoothie Charts](http://smoothiecharts.org/) - Charting
 * ASP.NET MVC5
 * Javascript
-* KnockOutJS
+* KnockoutJS
 
 ## Acknowledgments
 
