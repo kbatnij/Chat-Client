@@ -18,8 +18,10 @@ Simply copy it to the root of your web directory.
 
 ## Built With
 
-* [SignalR](https://www.asp.net/signalr)
+* [SignalR](https://www.asp.net/signalr) - Websockets
 * [Smoothie Charts](http://smoothiecharts.org/) - Charting
+* ASP.NET MVC5
+* Javascript
 
 ## Acknowledgments
 
