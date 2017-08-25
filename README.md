@@ -20,7 +20,6 @@ Simply copy it to the root of your web directory.
 
 * [SignalR](https://www.asp.net/signalr)
 * [Smoothie Charts](http://smoothiecharts.org/) - Charting
-* [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
 
 ## Acknowledgments
 
